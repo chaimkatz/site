@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>חיים כ"ץ - פעילויות והדרכות</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>חיים כ"ץ - פעילויות והדרכות</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">דף בית</a></li>
+                <li><a href="about.html">אודות</a></li>
+                <li><a href="activities.html">פעילויות</a></li>
+                <li><a href="programs.html">תכניות</a></li>
+                <li><a href="courses.html">קורסים וסדנאות</a></li>
+                <li><a href="contact.html">יצירת קשר</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="intro">
+            <h2>ברוכים הבאים</h2>
+            <p>כאן תוכלו למצוא מידע על מגוון הפעילויות, התכניות והסדנאות שלנו.</p>
+        </section>
+        <section class="gallery">
+            <h2>גלריה</h2>
+            <div class="image-grid">
+                <img src="images/image1.jpg" alt="תמונה 1">
+                <img src="images/image2.jpg" alt="תמונה 2">
+                <!-- הוסיפו עוד תמונות לפי הצורך -->
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 חיים כ"ץ - כל הזכויות שמורות.</p>
+    </footer>
+</body>
+</html>
